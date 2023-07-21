@@ -4,5 +4,8 @@ Eternal Arts is a programming team which is creating many cool projects.
 
 ## 👥 People
 
-@pixeldeee
-...
+@An72ty
+@bleudev owner of organization (in github)
+@d1xus
+@kotazzz
+@TheHakerTech owner of team
