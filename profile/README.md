@@ -1,7 +1,6 @@
 ## ❓ What is Eternal Arts?
 
-<a href="https://discordserver.info/1141324357432528998/like"><img alt="Static Badge" src="https://img.shields.io/badge/Press%20a%20like?style=blue">
-</a>
+<a href="https://discordserver.info/1141324357432528998/like">Press a like</a>
 
 Eternal Arts is a programming team which is creating many cool projects.
 
