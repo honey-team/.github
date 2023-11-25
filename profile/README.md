@@ -10,6 +10,12 @@ Honey Team is a team of programmers that creates a lot of cool projects.
 
 [@bleudev](https://github.com/bleudev) owner of organization (in github)
 
+[@kotella107](https://github.com/kotella107)
+
+[@itzdarkslipe](https://github.com/itzdarkslipe)
+
+[@SamuelRodriguesMGR](https://github.com/SamuelRodriguesMGR)
+
 [@d1xus](https://github.com/d1xus)
 
 [@kotazzz](https://github.com/kotazzz)
