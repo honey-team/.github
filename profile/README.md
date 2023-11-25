@@ -1,17 +1,17 @@
-## ❓ What is Eternal Arts?
+# ❓ What is Honey Team?
 
 <a href="https://discordserver.info/1141324357432528998/like">Press a like</a>
 
-Eternal Arts is a programming team which is creating many cool projects.
+Honey Team is a team of programmers that creates a lot of cool projects.
 
-## 👥 People
+## 👥 Our team
 
-@An72ty
+[@An72ty](https://github.com/An72ty)
 
-@bleudev owner of organization (in github)
+[@bleudev](https://github.com/bleudev) owner of organization (in github)
 
-@d1xus
+[@d1xus](https://github.com/d1xus)
 
-@kotazzz
+[@kotazzz](https://github.com/kotazzz)
 
-@TheHakerTech owner of team
+[@TheHakerTech](https://github.com/TheHakerTech) owner of team
