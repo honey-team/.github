@@ -14,7 +14,7 @@ Honey Team is a team of programmers that creates a lot of cool projects.
 
 - [@kotazzz](https://github.com/kotazzz)
 
-- [@mbutskpy](https://github.com/mbutskpy)
+- [@mbutsk](https://github.com/mbutsk)
 
 - [@moontr3](https://github.com/moontr3)
 
