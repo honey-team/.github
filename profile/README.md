@@ -14,3 +14,7 @@ Honey Team is a community of programmers who share common goals and interests in
 - [@SamuelRodriguesMGR](https://github.com/SamuelRodriguesMGR)
 - [@TheHakerTech](https://github.com/TheHakerTech) - owner of organisation and team
 - [@Timasuper05](https6//github.com/Timasuper05)
+
+## 💻 Our social medias
+
+[![Discord](https://dcbadge.limes.pink/api/server/hAMWepVryQ)](https://discord.gg/hAMWepVryQ)
