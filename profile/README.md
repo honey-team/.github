@@ -13,7 +13,8 @@ Honey Team is a community of programmers who share common goals and interests in
 - [@NikitaDik](https://github.com/NikitaDik)
 - [@SamuelRodriguesMGR](https://github.com/SamuelRodriguesMGR)
 - [@TheHakerTech](https://github.com/TheHakerTech) - owner of organisation and team
-- [@Timasuper05](https6//github.com/Timasuper05)
+- [@Timasuper05](https://github.com/Timasuper05)
+- [@justdont0](https://github.com/justdont0)
 
 ## 💻 Our social medias
 
